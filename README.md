@@ -17,7 +17,7 @@ This project is a **Spam Email Detection** application built using **Python**, *
 
 ## How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/yourusername/email-spam-detection.git
+   git clone [https://github.com/yourusername/email-spam-detection.git](https://github.com/Maheen-Shahbaz/EmailSpamDetection/tree/main)
 
 2. Navigate to the project folder:
 cd email-spam-detection
